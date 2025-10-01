@@ -40,8 +40,6 @@ OutCheck is a real-time smart travel advisor that guides users on the best time 
 
 Here’s how the web app looks when making a prediction:
 
-## Smart Commute Decisions
-
 ### Light Mode 
 ![Home Page](https://github.com/Taiyabakhan/OutCheck/blob/main/Screenshot%20(175).png)
 ![Home Page](https://github.com/Taiyabakhan/OutCheck/blob/main/Screenshot%20(176).png)
